@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //hey man what is up???
         setContentView(R.layout.activity_main);
 
         saveBtn = findViewById(R.id.button);

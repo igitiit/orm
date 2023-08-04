@@ -31,7 +31,7 @@ public class ActivityTwo extends AppCompatActivity {
             t2.setText(s.email);
             t3.setText(s.aNumber);
 
-            //s.name ="new name";
+            //s.name ="new name 2";
             s.save();
 
 
